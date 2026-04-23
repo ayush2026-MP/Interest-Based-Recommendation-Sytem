@@ -1,3 +1,4 @@
+<img width="1436" height="852" alt="Screenshot 2026-04-22 at 9 19 04 PM" src="https://github.com/user-attachments/assets/e72365d7-cc88-44bd-81d0-f5dfd68cef56" />
 # Interest-Based Recommendation System
 
 A live demonstration project for college based on the **cloud computing domain**.
