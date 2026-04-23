@@ -1,0 +1,13 @@
+id,title,category,description,difficulty,url,tags
+1,AWS Cloud Practitioner Essentials,AWS,Introductory course covering AWS services and cloud basics.,Beginner,https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/,aws|cloud|iam|storage|networking
+2,Azure Fundamentals Learning Path,Azure,Learn the core concepts of Azure cloud services.,Beginner,https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/,azure|cloud|virtual-machines|security|networking
+3,Google Cloud Fundamentals,GCP,Overview of infrastructure and platform services in Google Cloud.,Beginner,https://www.cloudskillsboost.google/course_templates/60,gcp|cloud|compute|storage|bigquery
+4,Docker for Beginners,Containers,Hands-on guide to container creation and deployment with Docker.,Beginner,https://www.docker.com/101-tutorial/,docker|containers|devops|deployment|cloud
+5,Kubernetes Basics,Orchestration,Learn pods, deployments, and service orchestration using Kubernetes.,Intermediate,https://kubernetes.io/docs/tutorials/kubernetes-basics/,kubernetes|containers|orchestration|devops|scaling
+6,Terraform Getting Started,Infrastructure as Code,Provision infrastructure using Terraform on cloud platforms.,Intermediate,https://developer.hashicorp.com/terraform/tutorials,terraform|iac|aws|azure|gcp|automation
+7,CI/CD on Cloud,DevOps,Automate build, test, and deployment pipelines in the cloud.,Intermediate,https://aws.amazon.com/devops/continuous-delivery/,cicd|devops|automation|deployment|cloud
+8,Cloud Security Fundamentals,Security,Learn identity, encryption, and best practices for cloud security.,Intermediate,https://cloud.google.com/security,security|cloud|iam|encryption|compliance
+9,Serverless with AWS Lambda,Serverless,Build event-driven applications without managing servers.,Intermediate,https://docs.aws.amazon.com/lambda/latest/dg/welcome.html,aws|serverless|lambda|api|cloud
+10,Monitoring with Prometheus and Grafana,Observability,Monitor cloud-native systems with metrics and dashboards.,Intermediate,https://prometheus.io/docs/introduction/overview/,monitoring|prometheus|grafana|observability|kubernetes
+11,Big Data on Cloud,Data Engineering,Study scalable analytics and data processing in cloud environments.,Advanced,https://cloud.google.com/learn/what-is-big-data,data|bigquery|spark|cloud|analytics
+12,Cloud Networking Essentials,Networking,Understand VPCs, subnets, load balancers, and DNS.,Intermediate,https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-networking/,networking|vpc|dns|load-balancer|cloud
